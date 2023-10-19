@@ -1,2 +1,2 @@
 # feature-extraction-for-text
-LSA LDA NMF and USE for feature extraction
+LSA LDA NMF, USE, distil-BERT last hidden state for feature extraction
